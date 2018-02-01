@@ -49,3 +49,7 @@
 23.  ActivityStack.startSpecificActivityLocked  (frameworks/base/services/java/com/android/server/am/ActivityStack.java)
 
 24. ActivityManagerService.startProcessLocked  (frameworks/base/services/java/com/android/server/am/ActivityManagerService.java)
+
+25. ActivityThread.main  (frameworks/base/core/java/android/app/ActivityThread.java)
+
+26. ActivityManagerProxy.attachApplication  (frameworks/base/core/java/android/app/ActivityManagerNative.java)
