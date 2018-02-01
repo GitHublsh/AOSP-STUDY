@@ -53,3 +53,23 @@
 25. ActivityThread.main  (frameworks/base/core/java/android/app/ActivityThread.java)
 
 26. ActivityManagerProxy.attachApplication  (frameworks/base/core/java/android/app/ActivityManagerNative.java)
+
+27. ActivityManagerService.attachApplication  （frameworks/base/services/java/com/android/server/am/ActivityManagerService.java）
+
+28. ActivityManagerService.attachApplicationLocked  （frameworks/base/services/java/com/android/server/am/ActivityManagerService.java）
+
+29. ActivityStack.realStartActivityLocked  （frameworks/base/services/java/com/android/server/am/ActivityStack.java）
+
+30. ApplicationThreadProxy.scheduleLaunchActivity  （frameworks/base/core/java/android/app/ApplicationThreadNative.java）
+
+31. ApplicationThread.scheduleLaunchActivity  （frameworks/base/core/java/android/app/ActivityThread.java）
+
+32. ActivityThread.queueOrSendMessage  （frameworks/base/core/java/android/app/ActivityThread.java）
+
+33. H.handleMessage  （frameworks/base/core/java/android/app/ActivityThread.java）
+
+34. ActivityThread.handleLaunchActivity  （frameworks/base/core/java/android/app/ActivityThread.java）
+
+35. ActivityThread.performLaunchActivity  （frameworks/base/core/java/android/app/ActivityThread.java）
+
+36. MainActivity.onCreate
