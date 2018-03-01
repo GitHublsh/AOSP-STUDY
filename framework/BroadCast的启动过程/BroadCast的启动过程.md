@@ -4,4 +4,8 @@
 
 2. ContextImpl.registerReceiver  （frameworks/base/core/java/android/app/ContextImpl.java）
 
-3. 
+3. ActivityThread.getHandler  (frameworks/base/core/java/android/app/ActivityThread.java)
+
+4. LoadedApk.getReceiverDispatcher  （frameworks/base/core/java/android/app/LoadedApk.java）
+
+5. 
