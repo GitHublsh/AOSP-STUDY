@@ -1,4 +1,4 @@
-### Service组件的启动过程
+### BroadCast的启动过程
 
 1. ContextWrapper.registerReceiver  (frameworks/base/core/java/android/content/ContextWrapper.java)
 
